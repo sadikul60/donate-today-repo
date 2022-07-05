@@ -3,24 +3,30 @@
 /*Body style*/
 body{
     margin: 0px;
+    padding: 0px;
 }
 
-/*Header style*/
-.section{
-    background-image: url(images/donation14.webp);
+/*Header section style*/
+.header{
+    background-image: url(images/donation9.jpg);
     background-repeat: no-repeat;
     background-position: left;
+    background-size: cover;
+    height: 444px;
+    margin-top: -40px;
 }
 
 h1{
-    color: black;
+    color: rgb(255, 253, 253);
     font-size: 40px;
     text-align: center;
+    padding-top: 60px;
     padding-left: 440px;
     padding-right: 440px;
 }
 
 p{
+    color: white;
     font-size: 20px;
     text-align: justify;
     padding-left: 480px;
@@ -34,6 +40,4 @@ p{
     padding:12px;
     background: orange;
     border-radius: 10px;
-    
-
 }
