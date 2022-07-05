@@ -1,0 +1,39 @@
+/*Used CSS language*/
+
+/*Body style*/
+body{
+    margin: 0px;
+}
+
+/*Header style*/
+.section{
+    background-image: url(images/donation14.webp);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+h1{
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    padding-left: 440px;
+    padding-right: 440px;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 480px;
+    padding-right: 480px;
+}
+
+.link-button{
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 45%;
+    padding:12px;
+    background: orange;
+    border-radius: 10px;
+    
+
+}
