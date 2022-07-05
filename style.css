@@ -32,6 +32,7 @@ h1{
 h2{
     text-align: center;
     font-size: 30px;
+    padding-top: 40px;
 }
 
 
@@ -108,7 +109,7 @@ p{
     border: 1px solid rgb(119, 118, 118);
 }
 
-
+/*Email and Subscribe section*/
 .email-style{
     padding: 15px;
     outline: none;
@@ -128,4 +129,18 @@ p{
     padding: 40px;
     margin-left: 200px;
     margin-right: 200px;
+}
+
+
+/*Footer section*/
+footer{
+    background-color: black;
+    color: red;
+    height: 110px;
+    padding-top: 6px;
+}
+
+h3{
+    text-align: center;
+    font-size: 27px;
 }
