@@ -65,3 +65,31 @@ p{
     border: 2px solid orangered;
     background: rgb(175, 117, 96);
 }
+
+.Taka{
+    font-size: 20px;
+    margin-left: 410px;
+    margin-top: 40px;
+    padding-left: 170px;
+    padding-right: 100px;
+    border: 0px solid;
+    outline: none;
+    border-bottom: 1px solid darkslategray;
+    
+    
+    
+
+}
+
+
+.flexible-container-tree{
+    display: flex;
+    justify-content: center;
+}
+
+.flexbox{
+    background: pink;
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid rgb(119, 118, 118);
+}
