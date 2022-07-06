@@ -8,6 +8,11 @@ body{
 }
 
 
+.margin{
+    margin-top: 100px;
+}
+
+
 /*Header section style*/
 .header{
     background-image: url(images/donation9.jpg);
@@ -113,7 +118,35 @@ p{
     border: 1px solid rgb(119, 118, 118);
 }
 
+/*Distribution flexible container four style*/
+.flexible-container-four{
+    display: flex;
+    justify-content: left;
+}
+
+.my-update{
+    margin-bottom: 100px;
+}
+.box-style{
+    width: 45%;
+    padding: 20px;
+}
+.box-style img{
+    width: 100%;
+}
+
+strong{
+    color: black;
+    text-align: justify;
+}
+
+
 /*Email and Subscribe section*/
+
+.my-update{
+    margin-top: 110px;
+}
+
 .email-style{
     padding: 15px;
     outline: none;
@@ -134,6 +167,8 @@ p{
     margin-left: 200px;
     margin-right: 200px;
 }
+
+
 
 
 /*Footer section*/
