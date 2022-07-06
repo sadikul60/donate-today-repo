@@ -8,9 +8,12 @@ body{
 }
 
 
+
+/*All section margin-top 100px style*/
 .margin{
     margin-top: 100px;
 }
+
 
 
 /*Header section style*/
@@ -22,6 +25,7 @@ body{
     height: 444px;
     margin-top: -40px;
 }
+
 
 
 /*h1 tag style*/
@@ -43,6 +47,7 @@ h2{
 }
 
 
+
 /*all p tag style*/
 p{
     color: white;
@@ -53,15 +58,17 @@ p{
 }
 
 
+
 /*link button style*/
 .link-button{
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     margin-left: 45%;
     padding:12px;
     background: orange;
     border-radius: 10px;
 }
+
 
 
 /*p tag para class style*/
@@ -70,12 +77,12 @@ p{
 }
 
 
+
 /*Donate today and donate plan flexible container style*/
 .flexible-container{
     display: flex;
     justify-content: center;
 }
-
 
 /*Donate today amount section box, hover, taka class flexible container style*/
 .box{
@@ -104,10 +111,13 @@ p{
 
 
 
+
 /*Our donate plan flexible container tree style*/
 .flexible-container-tree{
     display: flex;
     justify-content: center;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .flexbox{
@@ -118,33 +128,45 @@ p{
     border: 1px solid rgb(119, 118, 118);
 }
 
+
+
 /*Distribution flexible container four style*/
 .flexible-container-four{
     display: flex;
-    justify-content: left;
+    padding-left: 90px;
+
 }
 
-.my-update{
-    margin-bottom: 100px;
-}
 .box-style{
     width: 45%;
-    padding: 20px;
+    padding-left: 20px;
 }
 .box-style img{
-    width: 100%;
+    width: 100%; 
 }
 
 strong{
     color: black;
-    text-align: justify;
+    text-align: left;
 }
+
+.button-Scene{
+    background: orangered;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    outline: none;
+    border: 0px solid;
+}
+
 
 
 /*Email and Subscribe section*/
 
 .my-update{
     margin-top: 110px;
+    margin-bottom: 100px;
 }
 
 .email-style{
