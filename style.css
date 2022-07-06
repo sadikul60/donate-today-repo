@@ -4,6 +4,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: 'Merriweather', serif;
+    letter-spacing: 1px;
 }
 
 
@@ -73,6 +74,7 @@ p{
 
 /*Donate today amount section box, hover, taka class flexible container style*/
 .box{
+    width: 5%;
     padding: 20px;
     margin: 10px;
     font-size: 20px;
